@@ -415,7 +415,7 @@ h2
 @keyframes myanimAbt
 {
 	from{color:RED;left:0px;top:0px;}
-	to{color:purple;left:550px;top:0px;} /*left right define position*/
+	to{color:purple;left:250px;top:0px;} /*left right define position*/
 	transform:rotate(40deg);
 	
 }
